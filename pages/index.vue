@@ -3,13 +3,11 @@
     <div class="intro">
       <h1>Nuxt Toolbox</h1>
       <p>
-        Hi 👋! This template gives you a
-        <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
-        <a href="https://www.netlify.com/products/functions/"
-          >Netlify Functions</a
-        >, <a href="https://www.netlify.com/products/forms/">Forms</a>, and
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
+        Hi 👋! This page gives you a
+        <a href="https://naijaspider.com/property/">Nuxt</a> platform with the scaffolding for
+        <a href="https://opiopio.ng/"
+          >Functions</a>,
+        Our aim was to give you the code you would need to hit the ground running
         with a few fun features.
       </p>
 
